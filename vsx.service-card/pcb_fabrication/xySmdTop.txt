@@ -1,0 +1,111 @@
+/* 
+* Copyright (c) 2015-2018 in2H2 inc.
+* System developed for in2H2 inc. by Intermotion Technology, Inc.
+*
+* Full system RTL, C sources and board design files available at https://github.com/nearist
+* 
+* in2H2 inc. Team Members:
+* - Chris McCormick - Algorithm Research and Design
+* - Matt McCormick - Board Production, System Q/A
+*
+* Intermotion Technology Inc. Team Members:
+* - Mick Fandrich - Project Lead
+* - Dr. Ludovico Minati - Board Architecture and Design, FPGA Technology Advisor
+* - Vardan Movsisyan - RTL Team Lead
+* - Khachatur Gyozalyan - RTL Design
+* - Tigran Papazyan - RTL Design
+* - Taron Harutyunyan - RTL Design
+* - Hayk Ghaltaghchyan - System Software
+*
+* Tecno77 S.r.l. Team Members:
+* - Stefano Aldrigo, Board Layout Design
+* 
+* We dedicate this project to the memory of Bruce McCormick, an AI pioneer
+* and advocate, a good friend and father.
+* 
+* These materials are provided free of charge: you can redistribute them and/or modify  
+* them under the terms of the GNU General Public License as published by  
+* the Free Software Foundation, version 3.
+*
+* These materials are distributed in the hope that they will be useful, but 
+* WITHOUT ANY WARRANTY; without even the implied warranty of 
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU 
+* General Public License for more details.
+* In particular, this design should be treated as UNVERIFIED and UNCERTIFIED
+*
+* You should have received a copy of the GNU General Public License 
+* along with this design. If not, see <http://www.gnu.org/licenses/>.
+*/
+
+List of SMD position. First in mm and then in mils for PCB INH1702.pcb.
+SMD components position mounted on TOP layer. Measure in mm.
+
+Name    X mm.   Y mm.   Rotat.
+C1	136.50	40.50	270
+C2	156.50	40.50	270
+C3	136.50	4.50	90
+C4	156.50	4.50	90
+C5	4.50	38.50	180
+C6	13.50	38.50	180
+C7	143.00	29.50	270
+C8	121.50	15.00	270
+C9	117.00	28.00	270
+C10	17.50	32.50	90
+C11	143.00	15.00	270
+J26	6.25	13.50	0
+J27	141.50	35.00	0
+R1	138.50	40.50	90
+R2	158.50	40.50	90
+R3	138.50	4.50	270
+R4	158.50	4.50	270
+R5	8.50	38.50	180
+R6	17.50	38.50	180
+R7	139.00	29.50	90
+R8	141.00	29.50	270
+R9	117.00	31.50	270
+R10	117.50	15.00	90
+R11	119.50	15.00	270
+R12	15.50	32.50	270
+R13	139.00	15.00	90
+R14	141.00	15.00	270
+U1	151.00	29.50	90
+U2	129.50	15.00	90
+U3	151.00	15.00	90
+J16	127.50	29.50	0
+
+SMD components position mounted on TOP layer. Measure in mils.
+
+Name    X mils     Y mils    Rotat.
+C1	5374.02    1594.49    270
+C2	6161.42    1594.49    270
+C3	5374.02    177.17     90
+C4	6161.42    177.17     90
+C5	177.17     1515.75    180
+C6	531.50     1515.75    180
+C7	5629.92    1161.42    270
+C8	4783.46    590.55     270
+C9	4606.30    1102.36    270
+C10	688.98     1279.53    90
+C11	5629.92    590.55     270
+J26	246.06     531.50     0
+J27	5570.87    1377.95    0
+R1	5452.76    1594.49    90
+R2	6240.16    1594.49    90
+R3	5452.76    177.17     270
+R4	6240.16    177.17     270
+R5	334.65     1515.75    180
+R6	688.98     1515.75    180
+R7	5472.44    1161.42    90
+R8	5551.18    1161.42    270
+R9	4606.30    1240.16    270
+R10	4625.98    590.55     90
+R11	4704.72    590.55     270
+R12	610.24     1279.53    270
+R13	5472.44    590.55     90
+R14	5551.18    590.55     270
+U1	5944.88    1161.42    90
+U2	5098.43    590.55     90
+U3	5944.88    590.55     90
+J16	5019.69    1161.42    0
+
+In this PCB there are 31 SMD components mounted on Top Layer.
