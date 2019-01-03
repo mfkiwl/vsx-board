@@ -1,0 +1,55 @@
+/* 
+* Copyright (c) 2015-2018 in2H2 inc.
+* System developed for in2H2 inc. by Intermotion Technology, Inc.
+*
+* Full system RTL, C sources and board design files available at https://github.com/nearist
+* 
+* in2H2 inc. Team Members:
+* - Chris McCormick - Algorithm Research and Design
+* - Matt McCormick - Board Production, System Q/A
+*
+* Intermotion Technology Inc. Team Members:
+* - Mick Fandrich - Project Lead
+* - Dr. Ludovico Minati - Board Architecture and Design, FPGA Technology Advisor
+* - Vardan Movsisyan - RTL Team Lead
+* - Khachatur Gyozalyan - RTL Design
+* - Tigran Papazyan - RTL Design
+* - Taron Harutyunyan - RTL Design
+* - Hayk Ghaltaghchyan - System Software
+*
+* Tecno77 S.r.l. Team Members:
+* - Stefano Aldrigo, Board Layout Design
+* 
+* We dedicate this project to the memory of Bruce McCormick, an AI pioneer
+* and advocate, a good friend and father.
+* 
+* These materials are provided free of charge: you can redistribute them and/or modify  
+* them under the terms of the GNU General Public License as published by  
+* the Free Software Foundation, version 3.
+*
+* These materials are distributed in the hope that they will be useful, but 
+* WITHOUT ANY WARRANTY; without even the implied warranty of 
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU 
+* General Public License for more details.
+* In particular, this design should be treated as UNVERIFIED and UNCERTIFIED
+*
+* You should have received a copy of the GNU General Public License 
+* along with this design. If not, see <http://www.gnu.org/licenses/>.
+*/
+
+In2H2 Inc	(INH1701)
+
+Drill Sizes Report
+==================
+Tool   Size   Pltd   Feed   Speed   Qty   Description
+====   ====   ====   ====   =====   ===   ===========
+   1   7.87    x        0      0  12955     0.20 mm
+   2  11.81    x       95    300    912     0.30 mm
+   3     39    x      197    550      3     1.00 mm
+   4     71    x       81    550      8     1.80 mm
+   5    118    -       69    658      2     3.00 mm
+   6    118    x       69    658     10     3.00 mm
+   7    126    x       35    794      2     3.20 mm
+
+
+SEE FILE "DrillDrawing.gbr" FOR PCB MECHANIC SPECIFICATIONS
